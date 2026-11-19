@@ -1,0 +1,6 @@
+{
+  "name": "Penilaian Fisika — Momentum Sudut | SMAS Tunas Baru Jin Seung Batam",
+  "description": "Aplikasi penilaian interaktif Fisika SMA Kelas XI Fase F materi Momentum Sudut dan Hukum Kekekalan Momentum Sudut bersama MR Jo di SMAS Tunas Baru Jin Seung Batam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
